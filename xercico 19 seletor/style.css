@@ -1,0 +1,29 @@
+#charset "UTF-8" ;
+
+
+
+body{
+ background-color: rgba(89, 68, 116, 0.74) ;
+
+ font-size: arial;
+
+}
+h1{
+    color:blue;
+}
+
+h1#principal  {
+     text-align: center;
+     background-color: brown;
+}
+
+h2{
+    color: crimson;
+
+}
+ #idh1{
+     color: darkmagenta;
+
+ } 
+
+ 
